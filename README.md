@@ -12,6 +12,9 @@ https://help.sakura.ad.jp/206206431/
 ###### rental
 https://secure.sakura.ad.jp/menu/service/?mode=S1010&ac=init
 
+https://secure.sakura.ad.jp/rs/cp/?username=activated.sakura.ne.jp
+
+
 ###### cloud
 
 
